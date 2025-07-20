@@ -65,13 +65,13 @@ Once all the tutorials have been completed for the week the solution will be pro
 ## FINAL NOTE
 There are no silly questions in this unit - if there is a concept you do not understand then please ask your tutor to explain the concept for you. Our tutors are all experienced and well versed in the Java Language and will be able to assist you. If you have a question you can be sure that other students have the exact same questions. 
 OOP is an essential requirement that you must master and be part of your programming repertoire. Understanding the four pillars of OOP and the advantages they offer is crucial:
-+Code reusability
-+Improved productivity
-+Improved quality (mainly through code reuse)
-+Scalability
-+Improved security through data hiding
-+Model real world and abstract entities and allow them to interact to solve real problems
-+By using inheritance, we can eliminate redundant code and extend the use of existing classes.
++ Code reusability
++ Improved productivity
++ Improved quality (mainly through code reuse)
++ Scalability
++ Improved security through data hiding
++ Model real world and abstract entities and allow them to interact to solve real problems
++ By using inheritance, we can eliminate redundant code and extend the use of existing classes.
 
 OOP is an important skill to acquire and to understand, however, equally it is not suitable for all problem domains. It does take some time to master OOP and the best advice we can give to programming students is simple.....
 **Write code, write code, write code, write code........** You cannot break anything so experiment with the code we provide and extend it, change it, try alternatives. Only by writing code and attempting various techniques will you learn the benefits of OOP as well as the limitations. While reading about these concepts is worthwhile, writing code, making changes and experimenting (add another shape class such as octagon and/or rhombus) is the best way to learn how OOP operates and the advantages it provides. You cannot break anything by writing code and experimenting. We learn more from our mistakes than our sucessess.
